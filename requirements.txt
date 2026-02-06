@@ -1,0 +1,49 @@
+annotated-types
+anyio
+astroid  # Updated to a compatible version
+certifi
+cffi
+charset-normalizer
+colorama
+coverage
+cryptography
+dill
+h11
+httpcore
+httpx
+idna
+iniconfig
+isort
+jsonpatch
+jsonpointer
+langchain-core==0.2.43  # Update to a valid version
+langchain==0.2.17  # Ensure it's compatible with langchain-core
+mccabe
+orjson
+ormsgpack
+packaging
+platformdirs
+pluggy
+pycparser
+pydantic
+pydantic_core
+PyGithub
+Pygments
+PyJWT
+pylint  # Make sure pylint is compatible with astroid 2.x.x
+PyNaCl
+pytest
+PyYAML
+requests
+requests-toolbelt
+sniffio
+tenacity
+tomlkit
+urllib3
+xxhash
+zstandard
+
+
+
+
+
